@@ -22,7 +22,7 @@ Feel free to edit and share your experiences related with data analysis using st
 
 Please codes with the next structure will make the help easier!: 
 
-1. Folder with name!:
+1. Folder with a **name**:
 
   - **Code folder**: All the raw code in (python, R, c++, javascrypt, etc.)
   - **Notebook**: Your comments and outputs for the data and problems!
