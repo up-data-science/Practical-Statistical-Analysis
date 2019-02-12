@@ -1,6 +1,6 @@
 # Practical-Statistical-Analysis
 This respository is made with the goal to learn how to analyze data from statistical perspective. 
-Topics suggested and describe in this repository are related with:
+Topics suggested and described in this repository are related to:
 
 |Applied problems  |
 |--|
