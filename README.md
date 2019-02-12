@@ -15,3 +15,5 @@ Topics suggested and describe in this repository are related with:
 |Experimental Design|
 |Sampling Statistical Strategies|
 |Advanced Predictive Modelling|
+
+Feel free to edit and share your experiences related with data analysis using statistics!
