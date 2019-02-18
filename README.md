@@ -14,6 +14,7 @@ Topics suggested and described in this repository are related to:
 |Actuary|
 |Experimental Design|
 |Sampling Statistical Strategies|
+|Bayesian Statistics|
 |Advanced Predictive Modelling|
 
 Feel free to edit and share your experiences related with data analysis using statistics!
